@@ -43,6 +43,16 @@ Me chamo Guilherme de Andrade Alves, tenho 25 anos e sou natural de Belo Horizon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+
+
 <br/>
 <br/>
 
