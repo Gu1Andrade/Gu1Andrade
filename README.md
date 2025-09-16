@@ -44,13 +44,35 @@ Me chamo Guilherme de Andrade Alves, tenho 25 anos e sou natural de Belo Horizon
 />
 
 <img 
-     align="left" 
-    alt="Python" 
-    title="Python"
+    align="left" 
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
+
+
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+          
+
+<img 
+    align="left" 
+    alt="MySql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+          
 
 
 <br/>
