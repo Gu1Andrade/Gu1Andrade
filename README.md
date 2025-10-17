@@ -62,19 +62,25 @@ Me chamo Guilherme de Andrade Alves, tenho 25 anos e sou natural de Belo Horizon
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-          
+             
 
-<img 
+<img
     align="left" 
-    alt="MySql" 
-    title="Mysql"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-          
-
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    
+<img
+    align="left" 
+    alt="react" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
 <br/>
 <br/>
 
