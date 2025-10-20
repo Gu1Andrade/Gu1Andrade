@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-Me chamo Guilherme de Andrade Alves, tenho 25 anos e sou natural de Belo Horizonte, Minas Gerais. Atualmente curso Desenvolvimento de Sistemas no Senac e tenho interesse em desenvolvimento com Python e em soluções voltadas para tecnologia e inovação, "[linkedin](https://www.linkedin.com/in/gui-andrade-alves/)".
+Me chamo Guilherme de Andrade Alves, tenho 25 anos e sou natural de Belo Horizonte, Minas Gerais. Atualmente curso Desenvolvimento de Sistemas no Senac e tenho interesse em trabalhar em projetos como desenvolvedor e buscando soluções voltadas para tecnologia e inovação, "[linkedin](https://www.linkedin.com/in/gui-andrade-alves/)".
 
 
 ---
