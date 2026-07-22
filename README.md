@@ -81,53 +81,38 @@ Me chamo Guilherme de Andrade Alves, tenho 25 anos e sou natural de Belo Horizon
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
-<br/>
-<br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gu1Andrade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1Andrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 
-</p>
+<br/>
+<br/>
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Gu1Andrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-      />
-    </td>
-    <td>
-      <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1Andrade&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
-      />
-    </td>
-  </tr>
+<tr>
+<td>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gu1Andrade&show_icons=true&theme=tokyonight&locale=pt-br"/>
+
+</td>
+<td>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gu1Andrade&layout=compact&theme=tokyonight&locale=pt-br"/>
+
+</td>
+</tr>
 </table>
 
-<img
-  width="100%"
-  src="https://streak-stats.demolab.com?user=Gu1Andrade&theme=tokyonight&locale=pt_BR&hide_border=true"
-/>
 
 </div>
