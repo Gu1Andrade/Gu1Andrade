@@ -103,3 +103,31 @@ Me chamo Guilherme de Andrade Alves, tenho 25 anos e sou natural de Belo Horizon
   />
 
 </p>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Gu1Andrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1Andrade&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
+      />
+    </td>
+  </tr>
+</table>
+
+<img
+  width="100%"
+  src="https://streak-stats.demolab.com?user=Gu1Andrade&theme=tokyonight&locale=pt_BR&hide_border=true"
+/>
+
+</div>
